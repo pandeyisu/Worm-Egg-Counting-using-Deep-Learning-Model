@@ -1,7 +1,12 @@
-# Nematode Egg Counting
+# High-Throughput Counting of Microscopic Objects using Deep Learning
 
-This application reads an high resolution image file, extracts objects and
-gets the total count of them.
+This application reads an high resolution image file, extracts microscopic objects and
+calculates the total count of the objects in the image file. This work is developed by Upender Kalwa at Iowa State University (2019).
+
+Link to the published article:
+ Upender Kalwa, Chris Legner, Elizabeth Wlezien, Greg Tylka, Santosh Pandey (2019) New methods of removing debris and high-throughput counting of cyst nematode eggs extracted from field soil. PLoS ONE 14(10): e0223386. https://doi.org/10.1371/journal.pone.0223386
+ 
+ https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0223386
 
 ## Environment Setup
 
